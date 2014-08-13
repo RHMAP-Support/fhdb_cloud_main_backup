@@ -1,25 +1,3 @@
-# FeedHenry Hello World MBaaS Server
+The server side part of your App. 
 
-This is a blank 'hello world' FeedHenry MBaaS. Use it as a starting point for building your APIs. 
-
-# Group Hello World API
-
-# hello [/hello]
-
-'Hello world' endpoint.
-
-## hello [POST] 
-
-'Hello world' endpoint.
-
-+ Request (application/json)
-    + Body
-            {
-              "hello": "world"
-            }
-
-+ Response 200 (application/json)
-    + Body
-            {
-              "msg": "Hello world"
-            }
+See http://docs.feedhenry.com/ for more information on building node.js services on the FeedHenry platform.
